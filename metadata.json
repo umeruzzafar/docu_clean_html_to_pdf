@@ -1,0 +1,6 @@
+{
+  "name": "DocuClean PDF",
+  "description": "Inspect, parse, repair, and render corrupted PDF streams, university attendance reports, HTML portal exports, and Markdown into clean, beautiful downloadable PDFs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
